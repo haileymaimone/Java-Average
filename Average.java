@@ -2,10 +2,7 @@
 	CET-350 - Tech Computing Using Java
 	Program 1 - Grade Averaging Program
 
-	Group 1:  Hailey Maimone, Ricky Peddicord, Kelli Huff
-	Group Member Emails:  mai5013@calu.edu
-						  ped8697@calu.edu
-						  huf2203@calu.edu
+	Hailey Maimone
 */
 import java.io.*;
 
